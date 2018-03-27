@@ -3,4 +3,4 @@
 ### Centro de Ensino Superior do Seridó.
 ### Byte Seridó Júnior [Em constração]
 
-Link: Clique [aqui](https://isk4ndar.github.io/bytesjrpage/) para acessar!
+Link: Clique [aqui](https://seridobyte.github.io/bytesjrpage/) para acessar!
